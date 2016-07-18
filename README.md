@@ -1,3 +1,3 @@
-# rxjs-adapter
+# Moved
 
-RxJS version **5.x.x** StreamAdapter for run().
+Moved to https://github.com/cyclejs/cyclejs/tree/master/rxjs-adapter
